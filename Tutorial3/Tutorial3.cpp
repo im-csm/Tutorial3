@@ -1,5 +1,6 @@
 // Tutorial3.cpp 
-
+// Chance Mullen
+// https://docs.microsoft.com/en-us/windows/uwp/cpp-and-winrt-apis/get-started?view=msvc-160
 
 #include "pch.h"
 #include "framework.h"
